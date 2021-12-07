@@ -1,2 +1,2 @@
 # CovidDataHub
-Website that displays current covid data and covid news
+A website that displays current covid data and covid news
