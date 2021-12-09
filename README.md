@@ -3,6 +3,14 @@
 
 A website that displays Covid news and Covid data depending on location
 
+To access extra documentation:
+
+``` bash
+python
+import <module_name>
+help(<module_name>)
+```
+
 ## Prerequisites
 [Python](https://www.python.org/downloads/windows/) version >= 3.6
 
