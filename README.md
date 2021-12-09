@@ -7,8 +7,8 @@ To access extra documentation:
 
 ``` bash
 python
-import <module_name>
-help(<module_name>)
+>>> import <module_name>
+>>> help(<module_name>)
 ```
 
 ## Prerequisites
